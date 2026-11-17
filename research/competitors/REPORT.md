@@ -309,3 +309,44 @@ Your main audience is in the US and UK. Spain is 1 hour ahead of the UK and 6 ho
 - Main slot: #5 (pilot), #1 (war dog), #7 (Hachikō)
 - Second slot: #2 (crows), #3 (Swiss army)
 - Third slot: #4 (elephants), #15 (football truce)
+
+---
+
+## 7. Exact footage for each video (direct clip/file pages)
+
+These links point to **one specific clip or file**, not a search page. They were found through web search. Before you download, open each link and check two things:
+1. The licence says Free / Public domain / CC0.
+2. The clip is real footage and not marked "AI generated".
+
+**Licence key:**
+- Pexels / Pixabay = free, no credit needed
+- PD = public domain
+- CC0 = free for any use
+
+| # | Video title | Main clip (use this) | Extra clip / photo |
+|---|---|---|---|
+| 1 | The Dog Who Saved a Whole Army Unit | Real photo, Stubby gets a medal (Library of Congress, PD): https://commons.wikimedia.org/wiki/File:Gen._John_Pershing_awards_Sergeant_Stubby_with_a_medal.jpg | Soldiers walking with a dog (Pexels): https://www.pexels.com/video/soldiers-walking-with-a-dog-6200832/ |
+| 2 | Crows Never Forget Your Face | Crow on a tree (Pixabay): https://pixabay.com/videos/crow-bird-tree-natural-animal-135784/ | More crows: https://pixabay.com/videos/search/crows/ |
+| 3 | The Army That Invaded the Wrong Country | Soldiers marching (Pexels): https://www.pexels.com/video/marching-3929701/ | Vaduz, Liechtenstein, photo (Pexels): https://www.pexels.com/photo/vaduz-city-by-snowed-mountains-19824001/ |
+| 4 | Two Elephants Met Again After 22 Years | Elephant herd, 40s (Pexels): https://www.pexels.com/video/a-herd-of-elephants-in-the-wild-11760790/ | Elephant family (Pixabay): https://pixabay.com/videos/elephants-african-elephant-animals-126215/ |
+| 5 | He Could Shoot. He Chose Not To. | Real 1943 B-17 film (Public Domain Mark, Internet Archive): https://archive.org/details/CS-610 | Memphis Belle film (National Archives, CC0): https://archive.org/details/gov.archives.arc.38755 |
+| 6 | This Soldier Was Actually a Bear | Real photo, soldiers wrestle with Wojtek (IWM, PD): https://commons.wikimedia.org/wiki/File:Polish_22_Transport_Artillery_Company_watch_as_one_of_their_comrades_play_wrestles_with_Wojtek_their_mascot_bear_during_their_service_in_the_Middle_East..jpg | Brown bear walking (Pixabay): https://pixabay.com/videos/bear-brown-bear-animal-big-89031/ |
+| 7 | He Waited at the Station for 9 Years | Real Hachikō photo, c.1934 (PD in Japan): https://commons.wikimedia.org/wiki/File:Faithful_Dog_Hachiko_Photo.png | Lonely dog at an empty station, photo (Pexels): https://www.pexels.com/photo/lonely-dog-at-empty-train-station-platform-32753494/ |
+| 8 | Baby Pandas Are Born This Tiny | Panda (Pixabay): https://pixabay.com/videos/panda-bear-panda-bear-272562/ | More: https://pixabay.com/videos/search/giant%20panda/ (some clips are AI, so check the tag) |
+| 9 | The Tiny Ant With the Worst Sting | Ant close-up on moss (Pixabay): https://pixabay.com/videos/ant-macro-forest-moss-close-up-26593/ | Ant on grass: https://pixabay.com/videos/ant-macro-grass-insect-nature-24848/ |
+| 10 | This Shrimp Punches Hard Enough to Break Glass | No single clip confirmed. Pick one here: https://www.pexels.com/search/videos/mantis%20shrimp/ | If nothing fits, use AI (see the prompt below) |
+| 11 | Babies Have More Bones Than You | Newborn in hospital, 35s (Pexels): https://www.pexels.com/video/close-up-of-a-newborn-baby-at-a-hospital-nursery-12159580/ | More: https://www.pexels.com/search/videos/newborn%20baby/ |
+| 12 | A Boy Built a Windmill From Trash | Spinning turbine blades (Pexels): https://www.pexels.com/video/a-spinning-windmill-turbine-blades-7486504/ | Windmills in the countryside: https://www.pexels.com/video/windmills-at-the-countryside-10514724/ |
+| 13 | Your Stomach Is Trying to Eat Itself | Stomach animations (Pixabay): https://pixabay.com/videos/search/human%20stomach/ (pick a clip with no "AI" tag) | Human body: https://pixabay.com/videos/search/human%20body/ |
+| 14 | What Doctors Checked at Ellis Island | Real 1903 film, immigrants landing (Library of Congress): https://www.loc.gov/item/00694367/ | Real 1906 film (Internet Archive): https://archive.org/details/ArrivalOfImmigrants |
+| 15 | The Day Enemies Played Football | Real 1914 truce photo (IWM Q 50719, PD UK Gov): https://commons.wikimedia.org/wiki/File:Christmas_Truce_1914.png | Football in snow (Pixabay): https://pixabay.com/videos/search/football%20snow/ |
+
+**How to use photos in a Short:** add a slow zoom-in (the "Ken Burns" effect) in CapCut. A real old photo plus a slow zoom works very well for history stories.
+
+**AI prompt for video #10** (if you use it, tick "Altered or synthetic content" when you upload):
+> Vertical 9:16, underwater coral reef, colorful mantis shrimp close-up, it strikes a snail shell with lightning speed, tiny bubbles flash, slow motion, realistic nature documentary style.
+
+⚠️ Notes on some links:
+- **Hachikō:** this photo is public domain in Japan. Its US status is unclear. For a safer choice, use the Pexels station photo as your main image.
+- **Internet Archive:** "public domain" there is the uploader's label. CS-610 has a Public Domain Mark, and gov.archives.arc.38755 is CC0, so these two are the safest.
+- I found these links through web search. This server's network blocks these sites, so I could not open each page myself. Please check each page before you download.
